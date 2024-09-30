@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" height="300px">
+
+  <!-- Background Rectangle -->
+  <rect width="1200" height="300" fill="#dbe8f4" />
+
+  <!-- Circle -->
+  <circle cx="150" cy="150" r="50" fill="white" stroke="black" stroke-width="2" />
+
+  <!-- Polygon Hexagon -->
+  <polygon points="600,100 650,150 600,200 550,150" fill="white" stroke="black" stroke-width="2" />
+
+  <!-- Rectangle -->
+  <rect x="900" y="100" width="150" height="100" fill="white" stroke="black" stroke-width="2" />
+</svg>

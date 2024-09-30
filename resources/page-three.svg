@@ -1,0 +1,13 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Create a square -->
+    <rect x="10" y="10" width="180" height="180" fill="none" stroke="black" />
+    
+    <!-- Create a circle -->
+    <circle cx="10" cy="10" r="10" fill="red">
+        <!-- Animate the circle along the perimeter of the square -->
+        <animateMotion dur="5s" repeatCount="indefinite">
+            <path d="M10 10 L190 10 L190 190 L10 190 Z" />
+        </animateMotion>
+    </circle>
+</svg>
+
